@@ -162,11 +162,7 @@ python cli.py
 }
 ```
 
-## GET `/health`
 
-Returns system status and number of indexed chunks.
-
----
 
 # Sample Questions
 
